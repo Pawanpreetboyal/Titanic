@@ -13,3 +13,4 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 - `BABI4005TitanicSurvival.ipynb`: Jupyter Notebook with full analysis.
 - `BABI4005TitanicSurvival.html`: Exported HTML report.
 - `BABI4005TitanicSurvival.md`: Markdown version for quick viewing.
+- A zip folder which contains all iamges of graphs and the markdown version.
