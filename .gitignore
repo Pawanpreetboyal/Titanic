@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+*.zip
+
+# Ignore Jupyter Notebook outputs and cache files
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+
